@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Kabz1tov" target="_blank">Yerbol</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Full-Stack PHP Developer from Kazakhstan
+<h3 align="center">Full-Stack PHP Developer from Astana, Kazakhstan
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Animated-Flag-Kazakhstan.gif" height="20"/></h3>
 
 <!--
